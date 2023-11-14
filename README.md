@@ -67,7 +67,7 @@
                         🧰
             </td>
             <td>2023-11-18</td>
-            <td><包含ChatGPT4.0、Midjourney</td>
+            <td>包含ChatGPT4.0、Midjourney</td>
         </tr>
         <tr>
             <td>2</td>
