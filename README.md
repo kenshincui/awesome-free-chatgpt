@@ -1,6 +1,6 @@
 # Awesome Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/KenshinCui/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/KenshinCui/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-217-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/KenshinCui/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-217-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
 🎁 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，以及更多免费资源，持续更新。
 
@@ -33,8 +33,7 @@
 
 > 注：
 >
-> 1. 排序规则，见 [#80](https://github.com/KenshinCui/awesome-free-chatgpt/discussions/80)
-> 2. 标签含义
+> 标签含义
 >    - 🆓完全免费，打开即用
 >    - 🔓有免费额度
 >    - 🔒需要登陆
