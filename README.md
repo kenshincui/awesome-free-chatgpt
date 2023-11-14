@@ -1,6 +1,6 @@
 # Awesome Free ChatGPT
 
-![Awesome](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/LiLittleCat/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-217-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
+![Awesome](https://cdn.jsdelivr.net/gh/KenshinCui/PicBed/svg/awesome/badge.svg) [![English](https://cdn.jsdelivr.net/gh/KenshinCui/PicBed/svg/lang/english.svg)](README_en.md) ![website count](https://img.shields.io/badge/websites-217-blue?style=flat) ![last-commit](https://img.shields.io/github/last-commit/KenshinCui/awesome-free-chatgpt?style=flat&amp;label=last&nbsp;commit)
 
 🎁 免费的 ChatGPT (<https://chat.openai.com/>) 镜像网站列表，以及更多免费资源，持续更新。
 
@@ -8,8 +8,8 @@
 
 🌈 欢迎贡献
 
-- [添加镜像站点](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
-- [反馈站点失效](https://github.com/LiLittleCat/awesome-free-chatgpt/issues/new?assignees=LiLittleCat&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
+- [添加镜像站点](https://github.com/KenshinCui/awesome-free-chatgpt/issues/new?assignees=KenshinCui&labels=&projects=&template=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9.md&title=%E6%B7%BB%E5%8A%A0%E9%95%9C%E5%83%8F%E7%AB%99%E7%82%B9)
+- [反馈站点失效](https://github.com/KenshinCui/awesome-free-chatgpt/issues/new?assignees=KenshinCui&labels=&projects=&template=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88.md&title=%E5%8F%8D%E9%A6%88%E7%AB%99%E7%82%B9%E5%A4%B1%E6%95%88)
 - 更多(todo)
 
 如果您发现此项目有用，不要忘记 star 🌟，您的支持是我前进的动力。
@@ -33,7 +33,7 @@
 
 > 注：
 >
-> 1. 排序规则，见 [#80](https://github.com/LiLittleCat/awesome-free-chatgpt/discussions/80)
+> 1. 排序规则，见 [#80](https://github.com/KenshinCui/awesome-free-chatgpt/discussions/80)
 > 2. 标签含义
 >    - 🆓完全免费，打开即用
 >    - 🔓有免费额度
@@ -3206,8 +3206,8 @@
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LiLittleCat/awesome-free-chatgpt&type=Date)](https://star-history.com/#LiLittleCat/awesome-free-chatgpt&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=KenshinCui/awesome-free-chatgpt&type=Date)](https://star-history.com/#KenshinCui/awesome-free-chatgpt&Date)
 
 ### 💞 Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=LiLittleCat/awesome-free-chatgpt)](https://github.com/LiLittleCat/awesome-free-chatgpt/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=KenshinCui/awesome-free-chatgpt)](https://github.com/KenshinCui/awesome-free-chatgpt/graphs/contributors)
